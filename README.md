@@ -3,6 +3,7 @@
 ## Intro
 
 这是一个仓库, 有xyy绘制的山大信纸`山大信纸.ai`, 还包含了以下教程, 可以让有需要模拟书写的同学快速优雅地在山大信纸上生成模拟手写体. 
+有同学不会用Github, 这里给出该仓库文件的另一个下载地址, 需要代理: https://drive.google.com/file/d/1bL9icDrDcJI5qrJGn4nZDiZCEoMILA2o/view?usp=sharing 
 
 ## Requirements
 
